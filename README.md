@@ -95,7 +95,7 @@ Feel free to explore my repositories and see some of the projects I'm working on
   <a href="https://www.instagram.com/husseinezolfi?igsh=MW9ybGlndXVyMjBodA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="amirhosseinezolfi12@gmail.com" target="_blank">
+  <a href="mailto:amirhosseinezolfi12@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/amir-hossein-zolfi-347372330?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app" target="_blank">
