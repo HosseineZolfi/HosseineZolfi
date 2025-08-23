@@ -66,7 +66,7 @@ I focus on providing expert support and solutions for cloud-based infrastructure
 ### 💻 Programming & Frameworks:
 - **Languages**: Python, Bash
 - **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform
-- **Cloud Providers**: AWS, GCP, Azure
+- **Cloud Providers**: Openstack
 - **Security Tools**: Kali Linux, Burp Suite, Metasploit
 - **Version Control**: Git, GitHub
 
@@ -76,7 +76,7 @@ I focus on providing expert support and solutions for cloud-based infrastructure
 - **Message Brokers**: RabbitMQ, Kafka
 
 ### 🛠 Infrastructure & Automation:
-- **Infrastructure as Code (IaC)**: Terraform, CloudFormation
+- **Infrastructure as Code (IaC)**: Terraform
 - **CI/CD Pipelines**: Jenkins, GitLab CI
 - **Monitoring & Logging**: Prometheus, Grafana
 
